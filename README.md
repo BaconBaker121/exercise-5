@@ -16,10 +16,10 @@ Required tasks can also be found in the TODO comments in the main.s file, but he
 
 ## Grading
 
-- `t0` contains the specified calculated value: 10 points
-- `t1` contains the specified calculated value: 10 points
-- `t2` contains the specified calculated value: 10 points
-- Output contains `Program completed`: 5 points
+- `t0` contains the specified calculated value: 13 points
+- `t1` contains the specified calculated value: 13 points
+- `t2` contains the specified calculated value: 13 points
+- Output contains `Program completed`: 6 points
 
 # Submitting Work
 
