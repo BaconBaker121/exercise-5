@@ -2,7 +2,9 @@
 
 ## Overview
 
-You will complete the provided `main.s` file using the Venus simulator extension in VS Code.
+The point of this assignment is to get a little more comfortable with basic memory manipulation. You will be loading some values from variables, and storing them back in a segment of memory - essentially creating an array-like structure. 
+
+Complete the provided `main.s` file using the Venus simulator extension in VS Code.
 
 ## Required Work
 
