@@ -10,8 +10,8 @@ Complete the provided `main.s` file using the Venus simulator extension in VS Co
 
 Required tasks can also be found in the TODO comments in the main.s file, but here is a general overview of what is required:
 
-1. Load `alpha`, add `7`, and store the result at `out + 0`.
-2. Load `beta`, add `37`, and store the result at `out + 4`.
+1. Load `alpha`, add `3`, and store the result at `out + 0`.
+2. Load `beta`, add `9`, and store the result at `out + 4`.
 3. Load the second word of `pair`, subtract `45`, and store the result at `out + 8`.
 4. Reload those three values from `out` into `t0`, `t1`, and `t2`.
 5. Print the completion message.
